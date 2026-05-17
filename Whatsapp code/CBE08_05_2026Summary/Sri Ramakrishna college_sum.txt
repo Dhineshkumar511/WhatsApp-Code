@@ -1,0 +1,24 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Sri Ramakrishna college	
+User Name : SRPLC	
+City : CBE	
+Day count : 116 ( 08/05/2026 ) 	
+Cumulative count:116	
+Bus count : 5	
+	
+	Bus No : Counts
+	3559  :  ->  15
+	3522  :  ->  28
+	3624  :  ->  20
+	3579  :  ->  24
+	3512  :  ->  29
+	----------------
+	Total :      116
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

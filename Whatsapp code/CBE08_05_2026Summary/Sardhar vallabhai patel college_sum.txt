@@ -1,0 +1,31 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Sardhar vallabhai patel college	
+User Name : SADRVL	
+City : CBE	
+Day count : 383 ( 08/05/2026 ) 	
+Cumulative count:9937	
+Bus count : 12	
+	
+	Bus No : Counts
+	3660  :  ->  22
+	3749  :  ->  33
+	3447  :  ->  14
+	3200  :  ->  94
+	3546  :  ->  84
+	3175  :  ->  27
+	3557  :  ->  55
+	3588  :  ->  33
+	3631  :  ->  2
+	3448  :  ->  8
+	3192  :  ->  6
+	3197  :  ->  5
+	----------------
+	Total :      383
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

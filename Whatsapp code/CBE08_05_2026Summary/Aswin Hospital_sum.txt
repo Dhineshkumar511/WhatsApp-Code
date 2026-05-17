@@ -1,0 +1,28 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Aswin Hospital	
+User Name : ASWIN	
+City : CBE	
+Day count : 503 ( 08/05/2026 ) 	
+Cumulative count:2788	
+Bus count : 9	
+	
+	Bus No : Counts
+	3559  :  ->  66
+	3705  :  ->  105
+	3522  :  ->  27
+	3579  :  ->  38
+	3624  :  ->  96
+	3592  :  ->  66
+	3574  :  ->  69
+	3193  :  ->  9
+	3192  :  ->  27
+	----------------
+	Total :      503
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

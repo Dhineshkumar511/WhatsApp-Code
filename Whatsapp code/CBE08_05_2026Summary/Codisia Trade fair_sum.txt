@@ -1,0 +1,36 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Codisia Trade fair	
+User Name : CODISA	
+City : CBE	
+Day count : 824 ( 08/05/2026 ) 	
+Cumulative count:5316	
+Bus count : 17	
+	
+	Bus No : Counts
+	3609C  :  ->  57
+	3426  :  ->  40
+	3522  :  ->  49
+	3681  :  ->  28
+	3658  :  ->  25
+	3445  :  ->  64
+	3749  :  ->  78
+	3489  :  ->  70
+	3759  :  ->  61
+	3512  :  ->  39
+	3200  :  ->  81
+	3726  :  ->  63
+	3719  :  ->  31
+	3546  :  ->  56
+	3557  :  ->  39
+	3175  :  ->  41
+	3197  :  ->  2
+	----------------
+	Total :      824
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

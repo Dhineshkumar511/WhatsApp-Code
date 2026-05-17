@@ -1,0 +1,30 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Csi Engineering College	
+User Name : CCSI	
+City : CBE	
+Day count : 303 ( 08/05/2026 ) 	
+Cumulative count:2747	
+Bus count : 11	
+	
+	Bus No : Counts
+	3564  :  ->  84
+	3660  :  ->  24
+	3661  :  ->  36
+	3629  :  ->  34
+	3489  :  ->  38
+	3759  :  ->  23
+	3628  :  ->  2
+	3472  :  ->  28
+	3394  :  ->  21
+	3196  :  ->  4
+	3553  :  ->  9
+	----------------
+	Total :      303
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

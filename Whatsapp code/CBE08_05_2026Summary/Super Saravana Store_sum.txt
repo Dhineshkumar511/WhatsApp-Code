@@ -1,0 +1,44 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Super Saravana Store	
+User Name : SAST	
+City : CBE	
+Day count : 814 ( 08/05/2026 ) 	
+Cumulative count:5569	
+Bus count : 25	
+	
+	Bus No : Counts
+	3564  :  ->  61
+	3609C  :  ->  43
+	3565  :  ->  47
+	3681  :  ->  40
+	3660  :  ->  24
+	3402C  :  ->  29
+	3447  :  ->  40
+	3522  :  ->  28
+	3443  :  ->  43
+	3600  :  ->  45
+	3489  :  ->  40
+	3759  :  ->  35
+	3621  :  ->  20
+	3580  :  ->  30
+	3624  :  ->  10
+	3559  :  ->  6
+	3588  :  ->  51
+	3200  :  ->  35
+	3191  :  ->  42
+	3472  :  ->  28
+	3546  :  ->  35
+	3175  :  ->  28
+	3394  :  ->  27
+	3557  :  ->  24
+	3197  :  ->  3
+	----------------
+	Total :      814
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

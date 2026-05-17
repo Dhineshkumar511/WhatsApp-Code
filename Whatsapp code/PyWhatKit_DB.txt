@@ -1,0 +1,40 @@
+Date: 6/5/2026
+Time: 10:33
+Phone Number: +918883129995
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:34
+Phone Number: +918883129995
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:37
+Phone Number: +918883129995
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:38
+Phone Number: +918825743739
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:39
+Phone Number: +918825743739
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:40
+Phone Number: +918883129995
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 10:43
+Phone Number: +919488118108
+Message: Hello from Python
+--------------------
+Date: 6/5/2026
+Time: 12:15
+Group ID: CmrXoqYrRLELgCHdDbn2My
+Message: Hello group, this is an instant test!
+--------------------

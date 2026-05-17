@@ -1,0 +1,39 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Ppg college	
+User Name : PPGC	
+City : CBE	
+Day count : 911 ( 08/05/2026 ) 	
+Cumulative count:3260	
+Bus count : 20	
+	
+	Bus No : Counts
+	3558  :  ->  66
+	3426  :  ->  41
+	3705  :  ->  50
+	3681  :  ->  56
+	3402C  :  ->  37
+	3749  :  ->  25
+	3660  :  ->  51
+	3489  :  ->  57
+	3629  :  ->  55
+	3719  :  ->  46
+	3621  :  ->  56
+	3624  :  ->  30
+	3726  :  ->  84
+	3574  :  ->  42
+	3191  :  ->  98
+	3609C  :  ->  46
+	3394  :  ->  47
+	3631  :  ->  2
+	3449  :  ->  18
+	3197  :  ->  4
+	----------------
+	Total :      911
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

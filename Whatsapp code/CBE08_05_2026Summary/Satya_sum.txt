@@ -1,0 +1,25 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Satya	
+User Name : GSATAC	
+City : CBE	
+Day count : 149 ( 08/05/2026 ) 	
+Cumulative count:1032	
+Bus count : 6	
+	
+	Bus No : Counts
+	3564  :  ->  31
+	3565  :  ->  48
+	3681  :  ->  24
+	3759  :  ->  22
+	3588  :  ->  12
+	3621  :  ->  12
+	----------------
+	Total :      149
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

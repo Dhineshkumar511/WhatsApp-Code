@@ -1,0 +1,23 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Meena	
+User Name : MEENA	
+City : CBE	
+Day count : 126 ( 08/05/2026 ) 	
+Cumulative count:1008	
+Bus count : 4	
+	
+	Bus No : Counts
+	3660  :  ->  35
+	3681  :  ->  36
+	3580  :  ->  39
+	3448  :  ->  16
+	----------------
+	Total :      126
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

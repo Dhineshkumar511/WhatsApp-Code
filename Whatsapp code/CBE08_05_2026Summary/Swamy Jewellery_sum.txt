@@ -1,0 +1,28 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Swamy Jewellery	
+User Name : SWAMY	
+City : CBE	
+Day count : 102 ( 08/05/2026 ) 	
+Cumulative count:102	
+Bus count : 9	
+	
+	Bus No : Counts
+	3726  :  ->  10
+	3558  :  ->  27
+	3529  :  ->  10
+	3196  :  ->  6
+	3719  :  ->  3
+	3629  :  ->  7
+	3394  :  ->  22
+	3426  :  ->  15
+	3445  :  ->  2
+	----------------
+	Total :      102
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

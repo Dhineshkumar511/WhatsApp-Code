@@ -1,0 +1,42 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : INFO	
+User Name : CBFNO	
+City : CBE	
+Day count : 749 ( 08/05/2026 ) 	
+Cumulative count:6138	
+Bus count : 23	
+	
+	Bus No : Counts
+	3426  :  ->  10
+	3558  :  ->  24
+	3447  :  ->  10
+	3675  :  ->  119
+	3661  :  ->  18
+	3489  :  ->  32
+	3441  :  ->  19
+	3676  :  ->  97
+	3577  :  ->  69
+	3628  :  ->  2
+	3596  :  ->  55
+	3566  :  ->  88
+	3580  :  ->  30
+	3726  :  ->  5
+	3588  :  ->  17
+	3561  :  ->  104
+	3512  :  ->  9
+	3681  :  ->  6
+	3529  :  ->  9
+	3557  :  ->  5
+	3609C  :  ->  4
+	3192  :  ->  3
+	3553  :  ->  14
+	----------------
+	Total :      749
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

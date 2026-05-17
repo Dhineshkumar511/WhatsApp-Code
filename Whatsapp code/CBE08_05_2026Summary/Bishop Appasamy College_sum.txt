@@ -1,0 +1,33 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Bishop Appasamy College	
+User Name : BISHOP	
+City : CBE	
+Day count : 462 ( 08/05/2026 ) 	
+Cumulative count:4640	
+Bus count : 14	
+	
+	Bus No : Counts
+	3564  :  ->  31
+	3660  :  ->  46
+	3445  :  ->  60
+	3600  :  ->  16
+	3196  :  ->  27
+	3681  :  ->  36
+	3512  :  ->  68
+	3719  :  ->  29
+	3580  :  ->  40
+	3726  :  ->  26
+	3175  :  ->  28
+	3472  :  ->  14
+	3394  :  ->  35
+	3448  :  ->  6
+	----------------
+	Total :      462
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	

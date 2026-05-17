@@ -1,0 +1,29 @@
+Date : 08/05/2026	
+Day : Friday	
+AD_Name : Nirmala college	
+User Name : NIRALA	
+City : CBE	
+Day count : 341 ( 08/05/2026 ) 	
+Cumulative count:7800	
+Bus count : 10	
+	
+	Bus No : Counts
+	3564  :  ->  31
+	3565  :  ->  75
+	3660  :  ->  48
+	3402C  :  ->  28
+	3600  :  ->  32
+	3443  :  ->  32
+	3621  :  ->  22
+	3512  :  ->  45
+	3726  :  ->  22
+	3448  :  ->  6
+	----------------
+	Total :      341
+	
+For any discrepancies please call us or please check with the mobile app installed	
+	
+Thank you  Have a  nice day	
+	
+Regards 	
+        Team Infobus Customer care	
